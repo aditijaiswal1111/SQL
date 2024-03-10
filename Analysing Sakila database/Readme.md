@@ -1,4 +1,4 @@
-# Data Mining Assignment - PostgreSQL
+# Assignment - PostgreSQL
 
 ## Overview
 This assignment involves utilizing PostgreSQL with the Sakila database, a fictional database mimicking a DVD rental store. The task is to perform various queries on the database to extract meaningful insights and answer specific questions related to film rentals, customer behavior, revenue generation, and transaction analysis.
